@@ -18,7 +18,7 @@ using namespace std;
 /**  radixSort for an integer array
 @param arr[] integer array.
 n is the size of the array.
-d is highest digit number.
+d is the number of digits of the biggest number.
 @pre  array has integers in it. proper size and max digits are passed
 @post  the passed integer array is sorted.
 */
